@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Muhammad Ashhad 👋
 
-<!--
-**Muhammmad-Ashhad-Ansari/Muhammmad-Ashhad-Ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Vibe Coder  
+🤖 Building ideas with AI  
+🎓 BS Computer Science Student  
 
-Here are some ideas to get you started:
+I like turning ideas into working projects using AI-assisted
+development, experimenting with different technologies, and
+learning along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Up To
+
+- 🧠 Exploring AI-assisted development
+- ⚡ Turning random ideas into working projects
+- 🛠️ Learning by building and experimenting
+- 🤖 Probably asking AI to fix something I just broke
+
+## 📌 Featured Projects
+
+### 🔐 SecureChat
+A privacy-focused messaging application built around secure and
+user-controlled communication.
+
+### 🚦 Traffic Management Simulation
+An interactive traffic simulation and management project.
+
+### 🤖 RoboLang Compiler
+A custom compiler project built as part of my CS journey.
+
+---
+
+### ⚡ My Development Philosophy
+
+> Idea → Prompt → Build → Break → Ask AI → Fix → Ship 🚀
