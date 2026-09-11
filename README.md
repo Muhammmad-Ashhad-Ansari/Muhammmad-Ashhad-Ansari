@@ -107,24 +107,27 @@ But generating code isn't the finish line.
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,java" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,java&theme=dark" />
+  </a>
 </p>
 
-### ⚙️ Development & Tools
-
+### ⚙️ Frameworks & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,git,github,vscode,vercel,postman" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb&theme=dark" />
+  </a>
 </p>
 
-### 🗄️ Databases
-
+### 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" />
+  </a>
 </p>
 
 ---
