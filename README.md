@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Muhammad Ashhad 👋
+# Muhammad Ashhad 👋
 
-### Computer Science Student • Software Developer • AI-Assisted Builder
+### Computer Science Student • Software Engineer • AI-Assisted Builder
 
-I build practical software across **web development, cybersecurity, databases, compilers, HCI, and software engineering**.
+I build practical software at the intersection of web development, cybersecurity, databases, compilers, and human-centered design.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Muhammmad--Ashhad--Ansari-181717?style=for-the-badge&logo=github)](https://github.com/Muhammmad-Ashhad-Ansari)
 [![SecureAuth](https://img.shields.io/badge/Live_Project-SecureAuth-00C7B7?style=for-the-badge&logo=vercel)](https://secureauth-hci.vercel.app/)
@@ -13,41 +13,51 @@ I build practical software across **web development, cybersecurity, databases, c
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Computer Science student who learns best by **building real projects, solving problems, and experimenting with new technologies**.
+I’m a Computer Science student who learns by building. I enjoy turning ideas into working systems, testing them under real constraints, and improving them through iteration.
 
-My work spans authentication and security systems, compilers, simulations, databases, and user-centered applications.
+My work currently spans:
 
-- 💻 Building practical software and web applications
-- 🔐 Interested in cybersecurity, authentication, and secure systems
-- 🎨 Exploring Human-Computer Interaction and accessible UI/UX
-- 🧠 Working with algorithms, data structures, databases, and compiler concepts
-- 🤖 Using AI for development, debugging, research, and prototyping
-- 🚀 Open to internships, collaborations, and real-world engineering experience
+- 🔐 cybersecurity and authentication
+- 🌐 full-stack web applications
+- 🗄️ databases and backend engineering
+- ⚙️ compilers and systems design
+- 🎨 human-computer interaction and accessible interfaces
+- 🤖 AI-assisted development and experimentation
 
-> **Build → Test → Break → Understand → Improve → Ship**
+> Build → Test → Break → Understand → Improve → Ship
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
+
+I’m focused on building software that is:
+
+- practical and user-centered
+- secure and reliable
+- intellectually challenging
+- useful beyond just the demo stage
+
+I’m especially interested in projects that combine real-world problem solving with strong engineering fundamentals.
+
+---
+
+## Featured Projects
 
 ### 🔐 SecureAuth — Human-Centered Two-Factor Authentication
 
-A security-focused 2FA web application combining **Information Security** with **Human-Computer Interaction** principles.
+A security-focused 2FA web application designed around both security principles and usable user experience.
 
 **Highlights**
-- Password + TOTP two-factor authentication
-- Authenticator app enrollment with QR codes
-- Password hashing with Werkzeug
-- CSRF protection
-- TOTP replay prevention
-- Failed-attempt lockouts and IP-based rate limiting
-- Secure session management and idle timeout
-- Single-use backup recovery codes
-- Security dashboard and authentication activity
-- Light/dark themes and accessibility controls
-- Automated security testing
+- password + TOTP based two-factor authentication
+- QR-code enrollment flow for authenticator apps
+- password hashing with Werkzeug
+- CSRF protection and secure session handling
+- failed-attempt lockouts and rate limiting
+- backup recovery codes and activity visibility
+- accessible light/dark theming
+- automated security testing
 
 **Tech:** `Python` `Flask` `JavaScript` `SQLite` `TOTP` `Flask-WTF` `Vercel`
 
@@ -57,19 +67,17 @@ A security-focused 2FA web application combining **Information Security** with *
 
 ### 🤖 RoboLang Compiler
 
-A custom **Java compiler/interpreter** for an object-oriented robot-control language, built manually without external parser-generator libraries.
+A custom Java-based compiler/interpreter for an object-oriented robot-control language built without external parser-generator libraries.
 
 **Compiler pipeline**
-- Tokenizer
-- Lexical analysis
-- Syntax analysis
-- Abstract Syntax Tree
-- Semantic analysis
-- Symbol table
-- Error handling
-- Interpreter
-
-RoboLang supports variables, expressions, conditionals, loops, functions, arrays, object-oriented constructs, and custom robot commands.
+- tokenizer
+- lexical analysis
+- syntax analysis
+- AST generation
+- semantic analysis
+- symbol table handling
+- error handling
+- interpreter execution
 
 **Tech:** `Java` `Compiler Design` `AST` `OOP`
 
@@ -79,16 +87,15 @@ RoboLang supports variables, expressions, conditionals, loops, functions, arrays
 
 ### 🚦 Traffic Management Simulation
 
-A JavaFX-based intelligent traffic simulation built for a Data Structures & Algorithms project.
+An intelligent traffic simulation built for a Data Structures and Algorithms project, with real-time route control and dynamic traffic behavior.
 
 **Highlights**
-- Multiple intersections
-- Asynchronous traffic-light control
-- Real-time animated vehicle movement
-- Emergency-vehicle prioritization
-- Live queue trend visualization
-- Queue, PriorityQueue, and Map usage
-- Start, stop, reset, and repeatable simulation controls
+- multiple intersections
+- emergency vehicle prioritization
+- asynchronous signal control
+- animated vehicle movement
+- queue and priority-based logic
+- simulation controls for start, pause, reset, and repeat
 
 **Tech:** `Java` `JavaFX` `Queue` `PriorityQueue` `DSA`
 
@@ -96,11 +103,11 @@ A JavaFX-based intelligent traffic simulation built for a Data Structures & Algo
 
 ---
 
-## 🧪 More Projects
+## More Projects
 
 ### 🛡️ Password Breach Checker
 
-A Flask-based Information Security lab project that checks submitted passwords against a local collection of commonly breached or vulnerable passwords.
+A Flask application that checks passwords against a local collection of commonly breached and vulnerable values.
 
 **Tech:** `Python` `Flask` `HTML` `CSS` `JavaScript`
 
@@ -108,7 +115,7 @@ A Flask-based Information Security lab project that checks submitted passwords a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -116,23 +123,17 @@ A Flask-based Information Security lab project that checks submitted passwords a
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" />
 </p>
 
-### Frameworks, Databases & Technologies
+### Frameworks, Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb,git,github,vscode,vercel,postman,figma&theme=dark" />
 </p>
 
-`JavaFX` • `SQLite` • `SQL` • `TOTP` • `Data Structures & Algorithms` • `Compiler Design`
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,vercel,postman,figma&theme=dark" />
-</p>
+`JavaFX` • `SQLite` • `SQL` • `TOTP` • `Data Structures & Algorithms` • `Compiler Design` • `Cybersecurity`
 
 ---
 
-## 🔍 Areas I'm Exploring
+## Areas I’m Exploring
 
 ```text
 🔐 Cybersecurity & Authentication
@@ -147,17 +148,23 @@ A Flask-based Information Security lab project that checks submitted passwords a
 
 ---
 
-## 🤖 How I Use AI
+## How I Use AI
 
-I use AI as an engineering tool rather than a replacement for understanding.
+I use AI as a force multiplier for engineering work rather than a shortcut for understanding.
 
-It helps me research unfamiliar technologies, prototype ideas, debug errors, compare implementation approaches, review code, explore UI/UX concepts, and learn faster while building.
+It helps me:
+- research unfamiliar technologies
+- prototype fast
+- debug complex issues
+- compare implementation strategies
+- review code for gaps and edge cases
+- explore interface and UX ideas
 
-**The goal is still to understand what I'm building, test it, improve it, and make it work.**
+The goal is still to understand the system deeply, validate the solution, and ship with confidence.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -173,11 +180,11 @@ It helps me research unfamiliar technologies, prototype ideas, debug errors, com
 
 ---
 
-## 🤝 Let's Connect
+## Let’s Connect
 
-I'm interested in **internships, collaborations, and opportunities to work on real-world software engineering projects**.
+I’m open to internships, collaborations, and opportunities to work on meaningful software engineering projects.
 
-Feel free to explore my repositories or reach out through GitHub.
+If you’re building something interesting, I’d love to connect.
 
 <div align="center">
 
