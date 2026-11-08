@@ -4,10 +4,11 @@
 
 ### Computer Science Student • Software Engineer • AI-Assisted Builder
 
-I build practical software at the intersection of web development, cybersecurity, databases, compilers, and human-centered design.
+I build practical software at the intersection of mobile and web development, cybersecurity, databases, compilers, and human-centered design.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Muhammmad--Ashhad--Ansari-181717?style=for-the-badge&logo=github)](https://github.com/Muhammmad-Ashhad-Ansari)
+[![MyIULMS](https://img.shields.io/badge/Flagship-MyIULMS-005B95?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Muhammmad-Ashhad-Ansari/MyIULMS)
 [![SecureAuth](https://img.shields.io/badge/Live_Project-SecureAuth-00C7B7?style=for-the-badge&logo=vercel)](https://secureauth-hci.vercel.app/)
+[![Linktree](https://img.shields.io/badge/Links-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ashhadansari91)
 
 </div>
 
@@ -15,10 +16,11 @@ I build practical software at the intersection of web development, cybersecurity
 
 ## About Me
 
-I’m a Computer Science student who learns by building. I enjoy turning ideas into working systems, testing them under real constraints, and improving them through iteration.
+I'm a Computer Science student who learns by building. I enjoy turning ideas into working systems, testing them under real constraints, and improving them through iteration.
 
 My work currently spans:
 
+- 📱 Android apps with Kotlin and Jetpack Compose
 - 🔐 cybersecurity and authentication
 - 🌐 full-stack web applications
 - 🗄️ databases and backend engineering
@@ -30,28 +32,35 @@ My work currently spans:
 
 ---
 
-## Current Focus
+## Featured Projects
 
-I’m focused on building software that is:
+### 📱 MyIULMS — Android Client for Iqra University's Student Portal
 
-- practical and user-centered
-- secure and reliable
-- intellectually challenging
-- useful beyond just the demo stage
+My flagship project: an unofficial, open-source Android app that brings the IULMS portal's everyday essentials (schedule, attendance, results, transcript and fee vouchers) one tap away, with a sign-in flow built around transparency.
 
-I’m especially interested in projects that combine real-world problem solving with strong engineering fundamentals.
+**Highlights**
+- live class status with countdowns, weekly and exam schedules, and per-course attendance
+- results with GPA insights, transcript with CGPA and degree progress
+- fee vouchers with due/overdue tracking, saved or printed as PDF
+- optional class reminders and a next-class home-screen widget
+- **transparent sign-in:** credentials go over HTTPS straight to `iulms.edu.pk`, with no MyIULMS server, analytics or tracking
+- encrypted on-device storage: Android Keystore, `EncryptedSharedPreferences`, AES-256-GCM offline cache excluded from backups
+- Material 3 design with light/dark themes, keyboard-aware layouts, haptics and predictive back
+- 200 JVM unit tests covering parsing, schedule maths, reminder timing and analytics
+
+**Tech:** `Kotlin` `Jetpack Compose` `Material 3` `OkHttp` `Jsoup` `Coroutines` `Jetpack Glance` `Android Keystore`
+
+[Repository](https://github.com/Muhammmad-Ashhad-Ansari/MyIULMS) • [Download v1.2.0 APK](https://github.com/Muhammmad-Ashhad-Ansari/MyIULMS/releases/tag/v1.2.0) • [How sign-in works](https://muhammmad-ashhad-ansari.github.io/MyIULMS/)
 
 ---
 
-## Featured Projects
-
 ### 🔐 SecureAuth — Human-Centered Two-Factor Authentication
 
-A security-focused 2FA web application designed around both security principles and usable user experience.
+A security-focused 2FA web application designed around both security principles and a usable experience.
 
 **Highlights**
-- password + TOTP based two-factor authentication
-- QR-code enrollment flow for authenticator apps
+- password + TOTP two-factor authentication
+- QR-code enrollment for authenticator apps
 - password hashing with Werkzeug
 - CSRF protection and secure session handling
 - failed-attempt lockouts and rate limiting
@@ -67,17 +76,9 @@ A security-focused 2FA web application designed around both security principles 
 
 ### 🤖 RoboLang Compiler
 
-A custom Java-based compiler/interpreter for an object-oriented robot-control language built without external parser-generator libraries.
+A custom Java compiler/interpreter for an object-oriented robot-control language, built without parser-generator libraries.
 
-**Compiler pipeline**
-- tokenizer
-- lexical analysis
-- syntax analysis
-- AST generation
-- semantic analysis
-- symbol table handling
-- error handling
-- interpreter execution
+**Compiler pipeline:** tokenizer → lexical analysis → syntax analysis → AST generation → semantic analysis with a symbol table → error handling → interpreter execution
 
 **Tech:** `Java` `Compiler Design` `AST` `OOP`
 
@@ -90,20 +91,16 @@ A custom Java-based compiler/interpreter for an object-oriented robot-control la
 An intelligent traffic simulation built for a Data Structures and Algorithms project, with real-time route control and dynamic traffic behavior.
 
 **Highlights**
-- multiple intersections
-- emergency vehicle prioritization
-- asynchronous signal control
+- multiple intersections with asynchronous signal control
+- emergency-vehicle prioritization using queue and priority-based logic
 - animated vehicle movement
-- queue and priority-based logic
-- simulation controls for start, pause, reset, and repeat
+- simulation controls for start, pause, reset and repeat
 
 **Tech:** `Java` `JavaFX` `Queue` `PriorityQueue` `DSA`
 
 [Repository](https://github.com/Muhammmad-Ashhad-Ansari/traffic-management-simulation)
 
 ---
-
-## More Projects
 
 ### 🛡️ Password Breach Checker
 
@@ -117,40 +114,25 @@ A Flask application that checks passwords against a local collection of commonly
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" />
+  <img alt="Kotlin, Python, Java, C, C++, JavaScript, HTML, CSS" src="https://skillicons.dev/icons?i=kotlin,python,java,c,cpp,js,html,css&theme=dark" />
 </p>
 
-### Frameworks, Databases & Tools
+**Frameworks, Databases & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb,git,github,vscode,vercel,postman,figma&theme=dark" />
+  <img alt="Android Studio, Flask, Node.js, MySQL, MongoDB, Git, GitHub, VS Code, Vercel, Postman, Figma" src="https://skillicons.dev/icons?i=androidstudio,flask,nodejs,mysql,mongodb,git,github,vscode,vercel,postman,figma&theme=dark" />
 </p>
 
-`JavaFX` • `SQLite` • `SQL` • `TOTP` • `Data Structures & Algorithms` • `Compiler Design` • `Cybersecurity`
-
----
-
-## Areas I’m Exploring
-
-```text
-🔐 Cybersecurity & Authentication
-🌐 Full-Stack Web Development
-🤖 AI-Assisted Software Development
-🗄️ Database Systems
-🎨 Human-Computer Interaction
-⚙️ Backend Development
-🧠 Data Structures & Algorithms
-🏗️ Software Engineering
-```
+`Jetpack Compose` • `Material 3` • `JavaFX` • `SQLite` • `SQL` • `TOTP` • `Data Structures & Algorithms` • `Compiler Design` • `Cybersecurity`
 
 ---
 
 ## How I Use AI
 
-I use AI as a force multiplier for engineering work rather than a shortcut for understanding.
+I use AI as a force multiplier for engineering work, not a shortcut for understanding.
 
 It helps me:
 - research unfamiliar technologies
@@ -168,27 +150,20 @@ The goal is still to understand the system deeply, validate the solution, and sh
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammmad-Ashhad-Ansari&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammmad-Ashhad-Ansari&layout=compact&hide_border=true&theme=transparent" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Muhammmad-Ashhad-Ansari&hide_border=true&theme=transparent" />
+<img alt="GitHub contribution streak for Muhammmad-Ashhad-Ansari" src="https://streak-stats.demolab.com?user=Muhammmad-Ashhad-Ansari&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
-I’m open to internships, collaborations, and opportunities to work on meaningful software engineering projects.
-
-If you’re building something interesting, I’d love to connect.
+I'm open to internships, collaborations, and opportunities to work on meaningful software engineering projects. If you're building something interesting, I'd love to connect.
 
 <div align="center">
 
-### Thanks for visiting! 👨‍💻
+[![Linktree](https://img.shields.io/badge/Linktree-ashhadansari91-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/ashhadansari91)
+[![Email](https://img.shields.io/badge/Email-ashhadansari91%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashhadansari91@gmail.com)
 
 **Always learning. Always building.**
 
